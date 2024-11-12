@@ -1,0 +1,32 @@
+// Paste this file into "cpp.json" and delete this line.
+
+{
+	"basic c++ code": {
+		"prefix": "cpp",
+		"body": [
+		  "#include <bits/stdc++.h>",
+		  "using namespace std;",
+		  "typedef long long ll;",
+		  "",
+		  "void CASES()",
+		  "{",
+		  "    $0",
+		  "}",
+		  "",
+		  "int main()",
+		  "{",
+		  "    ios::sync_with_stdio(false);",
+		  "    cin.tie(NULL);",
+		  "    ",
+		  "    int t;",
+		  "    cin >> t;",
+		  "    while(t--)",
+		  "    {",
+		  "        CASES();",
+		  "    }",
+		  "    return 0;",
+		  "}"
+		],
+		"description": "basic c++ code"
+	}
+}
